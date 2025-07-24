@@ -78,4 +78,6 @@ contact : muniroyaj@gmail.com
 linkedin : https://www.linkedin.com/in/munisekhar05
 #codebasics
 
+![Alt text for the image](image-path-or-URL "Optional title")
+> Image Description: A brief explanation of the image.
 
