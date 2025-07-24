@@ -78,6 +78,7 @@ contact : muniroyaj@gmail.com
 linkedin : https://www.linkedin.com/in/munisekhar05
 #codebasics
 
-![Alt text for the image](image-path-or-URL "Optional title")
-> Image Description: A brief explanation of the image.
+Image_of_Dashboard
+![Alt text for the image](https://github.com/Munisekhar05/BI-360-CD/blob/main/360_PowerBI_Overview.png)
+> Image Description: (https://github.com/Munisekhar05/BI-360-CD/blob/main/360_PowerBI_Overview.png).
 
